@@ -8,7 +8,8 @@ This Flutter application displays a list of products fetched from an API.
 - Use Cubit for state management.
 - Implement dependency injection with injectable and get_it.
 you will find a screen from the task in assets
-  ![Product List](routeTaskScreen.png)
+  ![routeTaskScreen](https://github.com/user-attachments/assets/37dc92ee-fa7a-42ae-91c1-60368bda73d9)
+
 
 ## Getting Started
 To get started with this project, clone the repository and run the following commands:
