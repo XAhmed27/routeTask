@@ -7,7 +7,7 @@ This Flutter application displays a list of products fetched from an API.
 - Show product details including image, title, price, and rating.
 - Use Cubit for state management.
 - Implement dependency injection with injectable and get_it.
-Screen from the task
+- Screen for the task
 
 
 
