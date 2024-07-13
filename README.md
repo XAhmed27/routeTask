@@ -22,6 +22,20 @@ Screen from the task
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   ![routeTaskScreen](https://github.com/user-attachments/assets/37dc92ee-fa7a-42ae-91c1-60368bda73d9)
 
 
